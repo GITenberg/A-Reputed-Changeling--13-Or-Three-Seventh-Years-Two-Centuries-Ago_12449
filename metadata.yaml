@@ -1,0 +1,38 @@
+_repo: A-Reputed-Changeling--13-Or-Three-Seventh-Years-Two-Centuries-Ago_12449
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yonge, Charlotte M. (Charlotte Mary)
+    aliases:
+    - Yonge, Charlotte Mary
+    - Yonge, C. M. (Charlotte Mary)
+    birthdate: 1823
+    deathdate: 1901
+    gutenberg_agent_id: '945'
+    url: http://www.gutenberg.org/2009/agents/945
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
+description: ''
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth and death -- Fiction'
+- !lcsh 'Great Britain -- History -- 17th century -- Fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcsh 'Friendship -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Widows -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Uncles -- Fiction'
+- GITenberg
+title: "A Reputed Changeling\r\nOr Three Seventh Years Two Centuries Ago"
+url: http://www.gutenberg.org/ebooks/12449
